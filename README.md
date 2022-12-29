@@ -8,7 +8,7 @@
 
 <img width="25%" align="right" alt="Github" src="https://images.assets-landingi.com/uc/2444136f-b44c-4c01-94d5-675187b53c50/NinjaHero2.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Mobile Apps Professional who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a Senior Software Developer at Inventunm Technologies.
 - 📚 I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
