@@ -2,6 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@aCodeMechanic-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aCodeMechanic)](https://twitter.com/aCodeMechanic) [![Linkedin Badge](https://img.shields.io/badge/-GurkaranVir_Singh_Bambhrah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurkaranvir-singh-bambhrah/)](https://www.linkedin.com/in/gurkaranvir-singh-bambhrah/) [![Gmail Badge](https://img.shields.io/badge/-Gurkaran_Bambhrah-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gurkaran.bambhrah@gmail.com)](mailto:gurkaran.bambhrah@gmail.com) [![GitLab Badge](https://img.shields.io/badge/gurkaran.bambhrah-FC6D26?logo=gitlab&logoColor=fff&style=flat-square&link=https://gitlab.com/gurkaran.bambhrah)](https://gitlab.com/gurkaran.bambhrah)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EB36&vCenter=true&width=435&lines=FullStack+Web+and+App+Developer)](https://git.io/typing-svg)
+
 ## Hi 👋
 <div align="center"><img width="15%" alt="Github" src="https://www.gifcen.com/wp-content/uploads/2022/02/hello-gif-8.gif"/> <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 </div>
