@@ -54,7 +54,7 @@ I'm a Mobile Apps Professional who is passionate about writing code, solving pro
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gurkaranvir-singh-bambhrah/) [Gmail](mailto:gurkaran.bambhrah@gmail.com)
 
 ## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aCodeMechanic's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aCodeMechanic&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aCodeMechanic's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aCodeMechanic&show_icons=true&hide=contribs,prs&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
   <br/>
 
@@ -62,5 +62,5 @@ I'm a Mobile Apps Professional who is passionate about writing code, solving pro
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="aCodeMechanic's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aCodeMechanic&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="aCodeMechanic's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aCodeMechanic&theme=github-compact" /></a>
 
