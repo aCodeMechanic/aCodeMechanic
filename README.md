@@ -46,10 +46,10 @@
 
 
 ## About Me
-I'm a Mobile Apps Professional who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Mobile Apps Professional who is passionate about writing code, solving problems, automating stuff, and building software. Since 2015, I have been working on Mobile Apps (Native and Hybrid). Constantly reskilling and upskilling myself. 
 
-- 🔭 I’m currently a Senior Software Developer at Inventunm Technologies.
-- 📚 I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
+- 🔭 I’m currently a Lead Developer at <a href="https://sumeru.us/">Sumeru Inc</a>.
+- 📚 I’m currently learning backend web development using NodeJS, ExpressJS, and MongoDB.
 - 👯 I’m looking forward to expanding my horizon with more challenging projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gurkaranvir-singh-bambhrah/) [Gmail](mailto:gurkaran.bambhrah@gmail.com)
 
