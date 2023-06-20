@@ -62,5 +62,5 @@ I'm a Mobile Apps Professional who is passionate about writing code, solving pro
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="aCodeMechanic's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aCodeMechanic&theme=github-compact" /></a>
+  <a href="https://github.com/aCodeMechanic/github-readme-activity-graph"><img alt="aCodeMechanic's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aCodeMechanic&theme=github-compact" /></a>
 
