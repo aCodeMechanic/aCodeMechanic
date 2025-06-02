@@ -42,14 +42,14 @@
       <td><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="80"></td>
   </tr>
   </table>
-  <img width="15%" align="right" alt="Github" src="https://images.assets-landingi.com/uc/2444136f-b44c-4c01-94d5-675187b53c50/NinjaHero2.gif" />
-
 
 ## About Me
+
+<img width="15%" align="right" alt="Github" src="https://images.assets-landingi.com/uc/2444136f-b44c-4c01-94d5-675187b53c50/NinjaHero2.gif" />
+
 I'm a Mobile Apps Professional who is passionate about writing code, solving problems, automating stuff, and building software. Since 2015, I have been working on Mobile Apps (Native and Hybrid). Constantly reskilling and upskilling myself. 
 
-- 🔭 I’m currently a Lead Developer at <a href="https://sumeru.us/">Sumeru Inc</a>.
-- 📚 I’m currently learning backend web development using NodeJS, ExpressJS, and MongoDB.
+- 🔭 I’m currently a Lead Developer.
 - 👯 I’m looking forward to expanding my horizon with more challenging projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gurkaranvir-singh-bambhrah/) [Gmail](mailto:gurkaran.bambhrah@gmail.com)
 
