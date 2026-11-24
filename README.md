@@ -1,66 +1,92 @@
-# GurkaranVir Singh Bambhrah [aCodeMechanic]
-[![Twitter Badge](https://img.shields.io/badge/-@aCodeMechanic-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aCodeMechanic)](https://twitter.com/aCodeMechanic) [![Linkedin Badge](https://img.shields.io/badge/-GurkaranVir_Singh_Bambhrah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurkaranvir-singh-bambhrah/)](https://www.linkedin.com/in/gurkaranvir-singh-bambhrah/) [![Gmail Badge](https://img.shields.io/badge/-Gurkaran_Bambhrah-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gurkaran.bambhrah@gmail.com)](mailto:gurkaran.bambhrah@gmail.com) [![GitLab Badge](https://img.shields.io/badge/gurkaran.bambhrah-FC6D26?logo=gitlab&logoColor=fff&style=flat-square&link=https://gitlab.com/gurkaran.bambhrah)](https://gitlab.com/gurkaran.bambhrah)
+# Hi, I'm Gurkaranvir Singh Bambhrah 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=000000&vCenter=true&width=435&lines=FullStack+Web+and+App+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F85D7F&vCenter=true&width=600&lines=Lead+Developer+%7C+Mobile+%26+Full-Stack;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+Swift+%E2%80%A2+React+%E2%80%A2+Node.js;11%2B+years+shipping+apps+to+millions)](https://git.io/typing-svg)
 
-## Hi 👋
-<div align="center"><img width="15%" alt="Github" src="https://www.gifcen.com/wp-content/uploads/2022/02/hello-gif-8.gif"/> <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-acodemechanic.github.io-F85D7F?style=flat-square&logo=githubpages&logoColor=white)](https://acodemechanic.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gurkaranvir_Singh_Bambhrah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurkaranvir-singh-bambhrah/)
+[![Email](https://img.shields.io/badge/Email-gurkaran.bambhrah%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:gurkaran.bambhrah@gmail.com)
+[![X](https://img.shields.io/badge/@aCodeMechanic-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/aCodeMechanic)
+[![GitLab](https://img.shields.io/badge/gurkaran.bambhrah-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/gurkaran.bambhrah)
 
-## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
-<table style ="border : 1px solid #000000">
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="80"></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="80"></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="80"></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" width="80"></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="80"></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="80"></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="80"></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="80"></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="80"></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="80"></td>
-   </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" width="80"></td>
-  </tr>
-  <tr>
-      <td><img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="80"></td>
-      <td><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="80"></td>
-  </tr>
-  </table>
+> 🟢 **Open to work** — Mobile Lead / Flutter Lead roles · Noida / NCR or remote · available from **1 Dec 2026**
 
-## About Me
+---
 
-<img width="15%" align="right" alt="Github" src="https://images.assets-landingi.com/uc/2444136f-b44c-4c01-94d5-675187b53c50/NinjaHero2.gif" />
+## 🧑‍💻 About me
 
-I'm a Mobile Apps Professional who is passionate about writing code, solving problems, automating stuff, and building software. Since 2015, I have been working on Mobile Apps (Native and Hybrid). Constantly reskilling and upskilling myself. 
+I'm a **Mobile Tech Lead** with **11+ years** of building high-performance Android and iOS apps — natively and cross-platform — plus the web and backend pieces around them. I pick the right approach for each product and own delivery end to end, from requirements to release.
 
-- 🔭 I’m currently a Lead Developer at <a href="https://www.genaquarius.com/">Genaquarius</a>.
-- 👯 I’m looking forward to expanding my horizon with more challenging projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gurkaranvir-singh-bambhrah/) [Gmail](mailto:gurkaran.bambhrah@gmail.com)
+- 🔭 Currently **Lead Developer at [GenAquarius](https://www.genaquarius.com/)**, leading a team of 6 across mobile, web and backend for healthcare and AI products
+- 🔁 Led migrations of native and Ionic apps to **Flutter** (Foundry BC, Abhyaasa)
+- 📈 Worked on apps with **10M+**, **1M+** and **500K+** downloads
+- 🛡️ Keep crash/ANR rates at **≤ 0.01%** through testing, profiling and code reviews
+- ⚡ Brought production APIs under **200 ms** with query tuning, indexing and Redis caching
+- 🧭 Mentor developers, run code reviews, and move teams to 2-week sprints with regular client demos
 
-## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aCodeMechanic's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aCodeMechanic&show_icons=true&hide=contribs,prs&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+## 🛠️ Tech stack
 
-  <br/>
+**Mobile**
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+[![Mobile](https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,androidstudio,apple&perline=10)](https://skillicons.dev)
 
-  <a href="https://github.com/aCodeMechanic/github-readme-activity-graph"><img alt="aCodeMechanic's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aCodeMechanic&theme=github-compact" /></a>
+**Web & Backend**
 
+[![Web](https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,nestjs,html,css&perline=10)](https://skillicons.dev)
+
+**Data, Cloud & DevOps**
+
+[![Data](https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,redis,kafka,docker,kubernetes,azure,githubactions,git&perline=11)](https://skillicons.dev)
+
+<details>
+<summary><b>More detail</b></summary>
+
+| Area | Tools |
+|---|---|
+| Android | Kotlin, Java, Jetpack Compose, MVVM, Coroutines, Flow, Room, Hilt, Retrofit |
+| iOS | Swift, Objective-C, SwiftUI, UIKit, Combine, Core Data, CocoaPods, SPM |
+| Cross-platform | Flutter, Dart, Bloc, Riverpod, Provider, GetX, Platform Channels, Ionic |
+| Architecture | Clean Architecture, MVVM, VIPER, Microservices, Offline-first, HL7 integration |
+| Testing | Unit, Widget, Integration & Golden tests, JUnit, XCTest, Jest |
+| Release | GitHub Actions, Codemagic, Fastlane, Play Console, App Store Connect |
+
+</details>
+
+## 📱 Featured work
+
+| App | What it is | Stack | Reach |
+|---|---|---|---|
+| **StepSetGo** | Step-tracking rewards app | Kotlin, Swift, React | 10M+ downloads |
+| **Elyments** | Chat, audio & video calling (Android, iOS, web) | Kotlin, Swift, React | 1M+ downloads |
+| **Abhyaasa** | Meditation & wellness, rebuilt from Ionic to Flutter | Flutter | 500K+ downloads |
+| **Mega Cabs** | Airport rides — rider, driver & staff apps | Kotlin, Swift | 100K+ downloads |
+| **Novade** | Construction field management with offline mode | Flutter | 100K+ downloads |
+| **Foundry BC** | In-person & virtual mental-health care for young people | Kotlin, Swift, Flutter, React | 45K+ users |
+
+<sub>These are client projects built during my roles; see the <a href="https://acodemechanic.github.io/">portfolio</a> for more.</sub>
+
+## 📊 GitHub stats
+
+<!-- Cards below are generated by .github/workflows/profile-summary-cards.yml and committed to this repo -->
+<p>
+  <img alt="Contributions" src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" />
+</p>
+<p>
+  <img alt="GitHub stats" src="./profile-summary-card-output/radical/3-stats.svg" width="49%" />
+  <img alt="Productive time" src="./profile-summary-card-output/radical/4-productive-time.svg" width="49%" />
+</p>
+<p>
+  <img alt="Repos per language" src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" />
+  <img alt="Most commit language" src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p>
+  <img alt="aCodeMechanic's streak" src="https://streak-stats.demolab.com/?user=aCodeMechanic&theme=radical&hide_border=true" />
+</p>
+
+<sub><b>Note:</b> most of my work lives in private company repos, so these stats only reflect public code — not experience or skill level.</sub>
+
+---
+
+<p align="center">
+  <b>Let's build something.</b> Reach me on <a href="https://www.linkedin.com/in/gurkaranvir-singh-bambhrah/">LinkedIn</a> or by <a href="mailto:gurkaran.bambhrah@gmail.com">email</a>.
+</p>
