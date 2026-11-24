@@ -1,0 +1,23 @@
+name: GitHub profile summary cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # refresh twice a day
+  workflow_dispatch:         # run manually from the Actions tab
+
+permissions:
+  contents: write            # lets the action commit the generated SVGs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Add a personal access token as the SUMMARY_GITHUB_TOKEN secret to include
+          # private-repo activity; otherwise it falls back to public data only.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.5
